@@ -1,1 +1,1 @@
-# springboot-async
+# springboot-rabbitmq
